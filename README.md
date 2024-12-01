@@ -1,6 +1,6 @@
 # The Mine Sweeper Game
 
-Welcome to the "The Mine Sweeper Game", a competitive version of the classic puzzle game implemented in Java. Two players take turns uncovering cells in a shared minefield, racing to find the most mines.
+Welcome to the "The Mine Sweeper Game", a competitive version of the classic puzzle game implemented in Java. Two players take turns uncovering cells in a shared minefield, racing to find the most mines. This project was implemented during the second semester, in the course MYY205 of the curriculum of the University of Ioannina. The final grade of the project is 95 out of 100.
 
 
 ## Game Instructions
